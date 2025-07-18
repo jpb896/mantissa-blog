@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the *Jekflix Template* docs!
+Welcome to the *MantissaOS Release Announcements Template* docs!
 
 Here you will find everything you need to get your website up and running with the template:
 

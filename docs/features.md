@@ -1,6 +1,6 @@
 # Features
 
-_Jekflix_ comes with features to help you create/edit/share content and provide a nice experience for your visitors.
+_MantissaOS Release Announcements_ comes with features to help you create/edit/share content and provide a nice experience for your visitors.
 
 - [Live Search](features.md#live-search)
 - [Estimated Reading Time](features.md#estimated-reading-time)
@@ -124,7 +124,7 @@ Check it out a sample [here](https://jekflix.rossener.com/feed.xml).
 
 *(Optional)*
 
-Jekflix Template implements the Disqus plugin, allowing visitors to comment in posts.
+MantissaOS Release Announcements Template implements the Disqus plugin, allowing visitors to comment in posts.
 
 See the [docs](settings.md#disqus_username) to configure it.
 
@@ -150,7 +150,7 @@ To add pagination, see the [docs](settings.md#paginate).
 
 *(Optional)*
 
-As many people has asked for, Jekflix Template 2.0 adds an optional sidebar to posts.
+As many people has asked for, MantissaOS Release Announcements Template 2.0 adds an optional sidebar to posts.
 
 To show/hide the sidebar, see the [docs](settings.md#two_columns_layout).
 
@@ -188,7 +188,7 @@ This feature is supposed to be similar to the Netflix recommendation when you fi
 
 *(Optional)*
 
-*Jekflix Template 3.1.0* now supports math expressions through [MathJax](https://www.mathjax.org/) library, thanks to **[@XieGuochao](https://github.com/XieGuochao)**.
+*MantissaOS Release Announcements Template 3.1.0* now supports math expressions through [MathJax](https://www.mathjax.org/) library, thanks to **[@XieGuochao](https://github.com/XieGuochao)**.
 
 You only need 2 steps:
 
@@ -199,7 +199,7 @@ For example, `$\sum_{i=1}{10} = 55$` will be rendered as <img src="https://res.c
 
 ## Netlify CMS ready
 
-The newest addition to the *Jekflix Template 2.0.0* is the Netlify CMS integration.
+The newest addition to the *MantissaOS Release Announcements Template 2.0.0* is the Netlify CMS integration.
 
 With Netlify CMS you will be able to create/edit posts using an editor, access a workflow panel and change every aspect of your blog with some clicks.
 

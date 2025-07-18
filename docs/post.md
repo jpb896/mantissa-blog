@@ -16,7 +16,7 @@ The new file will be created in `_posts` with the format `YYYY-MM-DD-your-post-t
 
 If you don't know what these are, check the Jekyll [documentation](https://jekyllrb.com/docs/front-matter/).
 
-A *Jekflix* post file looks like:
+A *MantissaOS Release Announcements* post file looks like:
 
 ```yaml
 # _posts/2010-01-01-welcome-to-the-desert-of-the-real.md

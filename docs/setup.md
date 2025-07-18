@@ -18,7 +18,7 @@ $ npm install gulp-cli -g
 
 ## Installing template
 
-1. Fork the [Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
+1. Fork the [MantissaOS Release Announcements Template](https://github.com/thiagorossener/jekflix-template/fork)
 2. Clone the repo you just forked:
 ```
 $ git clone https://github.com/<your-github-username>/jekflix-template.git
@@ -53,7 +53,7 @@ $ gulp
 
 ## Customization
 
-*Jekflix Template* allows you to personalize your site with several settings. See the [docs](settings.md#settings) for more details.
+*MantissaOS Release Announcements Template* allows you to personalize your site with several settings. See the [docs](settings.md#settings) for more details.
 
 For advanced theme customization, check the directory `_sass` for style files.
 

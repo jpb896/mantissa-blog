@@ -1,6 +1,6 @@
 # Netlify CMS
 
-*Jekflix* is ready for Netlify CMS integration, which means you can create/edit posts, authors, categories, theme, etc... without touching a line of code!
+*MantissaOS Release Announcements* is ready for Netlify CMS integration, which means you can create/edit posts, authors, categories, theme, etc... without touching a line of code!
 
 However, you **can only use this if you're cloning the repo**. In the case you're using the `gem`, you'll need to setup Netlify CMS in your project by yourself.
 

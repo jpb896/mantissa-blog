@@ -1,6 +1,6 @@
-# Jekflix Template
+# MantissaOS Release Announcements Template
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+![MantissaOS Release Announcements Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
 
 See the [demo here](https://jekflix.rossener.com/).
 
@@ -8,7 +8,7 @@ See the [demo here](https://jekflix.rossener.com/).
 
 A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
 
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+![MantissaOS Release Announcements Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
 
 ## Features
 
@@ -95,9 +95,9 @@ Below are some properties you can change in your project `_config.yml`, check th
 
 ```
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: MantissaOS Release Announcements
+title: MantissaOS Release Announcements | A blog theme for Jekyll
+description: MantissaOS Release Announcements is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
   - template
@@ -221,4 +221,4 @@ Do you like my work? Buy me a coffee!
 
 ## License
 
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+*MantissaOS Release Announcements Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
